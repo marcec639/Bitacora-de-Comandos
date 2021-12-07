@@ -7,7 +7,7 @@
 
 ## **Lista utilizados durante el curso** 
 
-***1.  sudo** (Para otorgar permisos de superusuario)*
+**1.  sudo** (Para otorgar permisos de superusuario)*
 **2.  apt install** (Para instalar paquetes)
 **3.  apt-get update** (Para actualizar la lista de paquetes y sus versiones)
 **4.  apt-get upgrade** (Para instalar los paquetes más  recientes que se encuentren)
